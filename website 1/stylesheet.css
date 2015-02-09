@@ -1,0 +1,40 @@
+.header {
+	background-color: #303030;
+	height:100px;
+}
+
+.nav {
+	margin: 0 auto;
+	width: 500px;
+}
+
+.content {
+	background-color: #E8E8E8;
+	height: 800px;
+}
+
+.footer {
+	background-color: #303030;
+	height: 100px;
+}
+
+.thumb {
+	width: 200px;
+	height: auto;
+}
+
+.image_table {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.zoomed {
+	position: fixed;
+	margin: 0 auto;
+	display: hidden;
+}
+
+.zoomed_img {
+	width: 800px;
+	height: auto;
+}
